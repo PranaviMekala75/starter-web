@@ -8,7 +8,7 @@ yrtrt
 rtyr
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> pranavi mekala <role> -- <twitter>
 
 # THANKS
 
