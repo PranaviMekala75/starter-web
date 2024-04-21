@@ -1,0 +1,8 @@
+[user]
+	name = pranavi
+	email = Pranavimekala75@gmail.com
+[core]
+	editor = notepad++.exe -multiInst - nosession
+[alias]
+	hist = log --all --oneline --graph --decorate
+	
