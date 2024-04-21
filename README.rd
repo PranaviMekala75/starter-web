@@ -1,0 +1,13 @@
+RY
+TY
+RT
+U
+RTU
+Y
+TYU
+TYY
+
+RTU
+
+RTY
+RT
